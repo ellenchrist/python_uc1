@@ -1,0 +1,82 @@
+Exercício 1:
+Portugol
+n1=Leia numero
+n2=Leia numero
+soma=n1+n2
+Exibe(soma)
+
+Python
+n1=int(input("Digite um número: "))
+n2=int(input("Digite um número: "))
+soma=n1+n2
+print (f"A soma dos números é {soma}.")
+
+Teste de Mesa
+
+n1  n2  operação  acumulado 
+3   5   leitura	  
+3   5   soma          8
+3   5   soma          8
+
+Saída                16
+
+
+Exercício 2:
+Portugol
+n1=Leia numero
+resultado=n1 Mod2
+Se resultado = 0
+	Imprime "par"
+Se nao
+	Imprime "ímpar"
+
+
+Python
+n1=int(input("Digite um número: "))
+resultado=n1%2
+if resultado==0:
+	print("Par")
+else:
+	print(Ímpar)
+
+Teste de Mesa
+P   n1  Resultado  Operação
+1   8              Leitura
+2   8     0        Calculo Mod
+3   8     0        Verificar par/ímpar
+4   8     0        Print"par"
+
+
+
+Exercício 3:
+Portugol
+n1=Leia numero
+n2=Leia numero
+n3=Leia numero
+n4=Leia numero
+n5=Leia numero
+se n1>=n2 e n1>n3
+Imprime n1
+caso n2>n1 e n2>n3
+Imprime n2
+caso n3>n1 e n2>n3
+Imprime n2
+se nao 
+Imprime n3
+
+Corrigido
+
+para cont de 1 ate 5 faça
+	numero=ler numero
+	se cont = 1
+		maior=numero
+	senao
+	se numero>maior
+		maio=numero
+
+imprime (maior)
+
+Exercício 5:
+n1=Leia numero
+
+
