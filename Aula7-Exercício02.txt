@@ -1,0 +1,4 @@
+1- Entrada do número 1
+2- Verificar o resto da decisão com o módulo (%)
+3- Se o valor do módulo for 0 ele é par, se não é ímpar
+4- Mostrar se é par ou ímpar

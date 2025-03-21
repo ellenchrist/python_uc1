@@ -1,0 +1,4 @@
+1- Entrada do número 1
+2- Entrada do número 2
+3- Somar a entrada 1 e a entrada 2
+4- Mostrar a soma da entrada 1 com a entrada 2

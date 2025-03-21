@@ -1,0 +1,6 @@
+1- Entrar com o valor
+2- Configuro as variáveis (fatorial, i e soma)
+3- Configuro a repetição para repetir a quantidade de vezes do número
+4- Ajusto a variavel fatorial para ser numero - i
+5- adiciono o valor a lista "soma"
+6- ao acabar o loop mostrar a soma do grupo
